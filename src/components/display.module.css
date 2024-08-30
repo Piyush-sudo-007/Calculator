@@ -1,0 +1,10 @@
+.display{
+  margin: 5px;
+  width: 225px;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: black;
+  color: white;
+  border: none;
+  box-shadow: 0 0 10px grey;
+}
